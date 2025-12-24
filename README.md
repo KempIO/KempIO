@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, I am Kemp.
+**`Aspiring Java Developer`**
 <!--
 **KempIO/KempIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
